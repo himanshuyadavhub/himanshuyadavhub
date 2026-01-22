@@ -18,8 +18,9 @@
 
 ### 📌 Featured Projects
 - **Attendance System** – Node.js based system  
-- **News Aggregator** – APIs + Redis + MongoDB  
-- **Expense Tracker App**
+- **News Aggregator** – APIs + Redis + MongoDB + RabbitMQ 
+- **Expense Tracker App** - APIs + NodeJS + MySQL
+- **Job Application Tracker** - APIs + NodeJs + MySQL + AWS S3
 
 ---
 
